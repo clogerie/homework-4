@@ -1,0 +1,14 @@
+body{
+    background-color: #333;
+    color: white;
+    width:80%;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#start-button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(75, 181, 243);
+}
